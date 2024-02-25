@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Retsuko64
-- 🌱 I’m currently learning to be a computer engineer at Bilgi university of Istanbul
-- 📫 How to reach me : Instagram (hasan_fakih03)
+- 👋 Hello, I’m Hassan
+- 🌱 Currently, it's my 3rd year studying Computer Engineering.
 -                       Email: hassanfakihos@hotmail.com
 -                       Linkedin: https://www.linkedin.com/in/hassan-fakih-osman-508086254/
-familiar with: Java - python - javascript - MySQL - MongoDB - HTML - CSS
+Familiar with: Java - Python - JavaScript - MySQL - MongoDB - HTML - CSS
