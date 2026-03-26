@@ -1,5 +1,6 @@
-- 👋 Hello, I’m Hassan
-- 🌱 Currently, it's my 4th year studying Computer Engineering.
+- Hello, I’m Hassan
+- 🌱 I graduated from Bilgi University with a B.S. in Computer Engineering.
+- I am very interested in Machine Learning and Bioinformatics.
 -                       Email: hassanfakihos@hotmail.com
 -                       Linkedin: https://www.linkedin.com/in/hassan-fakih-osman/
-Familiar with: Java - Python - JavaScript - MySQL - MongoDB - HTML - CSS
+Programming Languages: Java - Python - JavaScript - MySQL - MongoDB - HTML - CSS
